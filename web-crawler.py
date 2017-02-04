@@ -2,7 +2,7 @@
 #github id abhishek981996
 #Lets do it 
 #Step 1 :searching in a given website
-#page = urllib.urlopen("http://google.com").read()
+
 
 import urllib
 import re
